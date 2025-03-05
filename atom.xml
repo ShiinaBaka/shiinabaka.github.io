@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shiinabaka.github.io</id>
+    <title>C8日语笔记</title>
+    <updated>2025-03-05T14:43:16.470Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shiinabaka.github.io"/>
+    <link rel="self" href="https://shiinabaka.github.io/atom.xml"/>
+    <subtitle>在学n3,,,</subtitle>
+    <logo>https://shiinabaka.github.io/images/avatar.png</logo>
+    <icon>https://shiinabaka.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, C8日语笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[hi]]></title>
+        <id>https://shiinabaka.github.io/post/hi/</id>
+        <link href="https://shiinabaka.github.io/post/hi/">
+        </link>
+        <updated>2025-03-05T13:37:17.000Z</updated>
+        <content type="html"><![CDATA[<script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+<orbit-reviewarea color="blue">
+  <orbit-prompt
+    question="设计卡片即是设计什么？"
+    answer="设计任务，一个重复再重复的任务。"
+  ></orbit-prompt><orbit-prompt
+    question="SRS任务对你产生改变的最核心、最常见的机制是什么？"
+    answer="提取练习（retrieval practice）。"
+  ></orbit-prompt><orbit-prompt
+    question="什么是提取练习？"
+    answer="通过回忆来提取记忆，提取行为会强化记忆，并且这个效应会减缓遗忘。"
+  ></orbit-prompt><orbit-prompt
+    question="有策略地规划每次提取之间的间隔，可以有效阻止什么？"
+    answer="遗忘。"
+  ></orbit-prompt><orbit-prompt
+    question="记忆力的提高能够转化为哪些能力的提高？"
+    answer="一般理解能力和解决问题能力。"
+  ></orbit-prompt><orbit-prompt
+    question="SRS有别于传统学习模式的关键是什么？"
+    answer="提取（Retrieval）。"
+  ></orbit-prompt><orbit-prompt
+    question="通过“提取以掌握”的现象也被称为？"
+    answer="测试效应。"
+  ></orbit-prompt><orbit-prompt
+    question="“提取练习”的目的是什么？"
+    answer="从测试中进行学习，而非“评估”学习成果。"
+  ></orbit-prompt><orbit-prompt
+    question="如果想用SRS强化某方面的理解，需要怎么做？"
+    answer="学会卡片化相关的全部细节，一个不漏地做提取。"
+  ></orbit-prompt>
+</orbit-reviewarea>
+]]></content>
+    </entry>
+</feed>
